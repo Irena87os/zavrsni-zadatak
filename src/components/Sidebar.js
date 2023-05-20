@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 import  "./Sidebar.css";
 
 
-// https://github.com/msostaric031/algebra-seminarski-rad
 class Sidebar extends React.Component{
     constructor(props){
         super(props);
@@ -28,8 +27,8 @@ class Sidebar extends React.Component{
                 </div>
                 <div className="sd-body">
                     <ul>
-                        <li><Link to="/" className="sd-link">Chat</Link></li>
-                        <li><Link to="/about" className="sd-link">About</Link></li>
+                        <li><Link to="/zavrsni-zadatak/" className="sd-link">Chat</Link></li>
+                        <li><Link to="/zavrsni-zadatak/about" className="sd-link">About</Link></li>
                     </ul>
                 </div>
             </div>
