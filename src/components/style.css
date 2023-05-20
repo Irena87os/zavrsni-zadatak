@@ -19,7 +19,7 @@ input {
     padding: 5px;
     font-size: 16px;
     border-radius: 10px;
-    border: solid black 3px;
+    border: solid black 2px;
     font-family: 'Montserrat' ;
     font-weight: 400;
     padding: 15px;
@@ -29,3 +29,29 @@ input {
     height: 100%;
     display: flex;
   }
+
+.login-btn{
+    border-radius: 10px;
+    background: black;
+    padding: 1em 2em;
+    color: #ADFF15;
+    text-transform: uppercase;
+    font-family: 'Montserrat';
+    margin: 25px;
+}
+
+.login-btn:hover{
+    border: 2px black solid;
+    background-color: #ADFF15;
+    margin: 23px;
+    color: black;
+    font-weight: 600;
+}
+
+.login-logo{
+    height: 100px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+
+}
