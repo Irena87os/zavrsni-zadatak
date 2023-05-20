@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zavrsni-zadatak/static/css/main.8db08e4e.css",
+    "main.js": "/zavrsni-zadatak/static/js/main.a7811a40.js",
+    "index.html": "/zavrsni-zadatak/index.html",
+    "main.8db08e4e.css.map": "/zavrsni-zadatak/static/css/main.8db08e4e.css.map",
+    "main.a7811a40.js.map": "/zavrsni-zadatak/static/js/main.a7811a40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8db08e4e.css",
+    "static/js/main.a7811a40.js"
+  ]
+}
