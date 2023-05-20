@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/zavrsni-zadatak/static/css/main.9230342c.css",
-    "main.js": "/zavrsni-zadatak/static/js/main.d5662ceb.js",
+    "main.css": "/zavrsni-zadatak/static/css/main.d6309c41.css",
+    "main.js": "/zavrsni-zadatak/static/js/main.2125d122.js",
+    "static/media/banana_logo.png": "/zavrsni-zadatak/static/media/banana_logo.36979a919a2217e0e986.png",
     "index.html": "/zavrsni-zadatak/index.html",
-    "main.9230342c.css.map": "/zavrsni-zadatak/static/css/main.9230342c.css.map",
-    "main.d5662ceb.js.map": "/zavrsni-zadatak/static/js/main.d5662ceb.js.map"
+    "main.d6309c41.css.map": "/zavrsni-zadatak/static/css/main.d6309c41.css.map",
+    "main.2125d122.js.map": "/zavrsni-zadatak/static/js/main.2125d122.js.map"
   },
   "entrypoints": [
-    "static/css/main.9230342c.css",
-    "static/js/main.d5662ceb.js"
+    "static/css/main.d6309c41.css",
+    "static/js/main.2125d122.js"
   ]
 }
