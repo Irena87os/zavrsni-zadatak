@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/zavrsni-zadatak/static/css/main.8db08e4e.css",
-    "main.js": "/zavrsni-zadatak/static/js/main.a7811a40.js",
+    "main.css": "/zavrsni-zadatak/static/css/main.9230342c.css",
+    "main.js": "/zavrsni-zadatak/static/js/main.d5662ceb.js",
     "index.html": "/zavrsni-zadatak/index.html",
-    "main.8db08e4e.css.map": "/zavrsni-zadatak/static/css/main.8db08e4e.css.map",
-    "main.a7811a40.js.map": "/zavrsni-zadatak/static/js/main.a7811a40.js.map"
+    "main.9230342c.css.map": "/zavrsni-zadatak/static/css/main.9230342c.css.map",
+    "main.d5662ceb.js.map": "/zavrsni-zadatak/static/js/main.d5662ceb.js.map"
   },
   "entrypoints": [
-    "static/css/main.8db08e4e.css",
-    "static/js/main.a7811a40.js"
+    "static/css/main.9230342c.css",
+    "static/js/main.d5662ceb.js"
   ]
 }
