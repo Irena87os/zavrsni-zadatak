@@ -11,12 +11,11 @@ const Header = (props) =>{
         <button onClick={props.handleLogout}>Logout</button>
       </div>}
 
-      {!isLoggedIn &&  <div className="App-header">
+{/*      {!isLoggedIn &&  <div className="App-header">
         <div></div>
         <h1>Chat Application</h1>
-        {/* Prazan div služi za flex pozicioniranje elemenata */}
-        <div></div>
-      </div>}
+        
+        </div>}*/}
       </>
     )
 }

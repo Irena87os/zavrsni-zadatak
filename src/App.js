@@ -33,9 +33,9 @@ class App extends React.Component{
          <Sidebar ref={(reference)=> this.sidebar = reference}/> 
           <Routes>
               <Route path="/zavrsni-zadatak/" 
-              element={ this.state.username ? <Chat username={this.state.username}/> : <Navigate to="/login" />} />
+              element={ this.state.username ? <Chat username={this.state.username}/> : <Navigate to="/zavrsni-zadatak/login" />} />
               <Route path="/zavrsni-zadatak/login" element={<Login onLogin={this.handleLogin} username={this.state.username}/>} />
-              <Route path="/zavrsni-zadatak/about" element={this.state.username ? <About />: <Navigate to="/login" /> } />
+              <Route path="/zavrsni-zadatak/about" element={this.state.username ? <About />: <Navigate to="/zavrsni-zadatak/login" /> } />
             </Routes>
     </div>
     )
