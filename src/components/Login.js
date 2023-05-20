@@ -19,8 +19,8 @@ const Login = (props) =>{
         <form className="login-form" onSubmit={handleSubmit}>
             
             <label htmlFor="title">
-            <img src={require('../img/banana_logo.png' ) } alt='logo' className='login-logo'></img>
-                <h1>Messenger</h1>
+            <img src={require('../img/box.png' ) } alt='logo' className='login-logo'></img>
+                <h1>Chat BOX</h1>
             </label>
             <input 
             className="input"
