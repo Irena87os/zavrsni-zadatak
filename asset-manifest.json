@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/zavrsni-zadatak/static/css/main.d6309c41.css",
+    "main.css": "/zavrsni-zadatak/static/css/main.f49a4577.css",
     "main.js": "/zavrsni-zadatak/static/js/main.b4725236.js",
     "static/media/box.png": "/zavrsni-zadatak/static/media/box.4235e39288b5a3117851.png",
     "index.html": "/zavrsni-zadatak/index.html",
-    "main.d6309c41.css.map": "/zavrsni-zadatak/static/css/main.d6309c41.css.map",
+    "main.f49a4577.css.map": "/zavrsni-zadatak/static/css/main.f49a4577.css.map",
     "main.b4725236.js.map": "/zavrsni-zadatak/static/js/main.b4725236.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6309c41.css",
+    "static/css/main.f49a4577.css",
     "static/js/main.b4725236.js"
   ]
 }
