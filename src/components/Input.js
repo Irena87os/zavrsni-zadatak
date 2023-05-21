@@ -19,17 +19,18 @@ class Input extends Component {
 
   render() {
     return (
-      <div className="Input">
+      <div className="bottom">
         <form onSubmit={e => this.onSubmit(e)}>
           <input
             onChange={e => this.onChange(e)}
             value={this.state.text}
             type="text"
-            placeholder="Enter your message and press ENTER"
+            placeholder="Unesi poruku i stisni ENTER"
             // bilo autofocus="true"
             autoFocus={true}
+            className="input-msg"
           />
-          <button className="btn-send">Send</button>
+          <button className="login-btn">Pošalji</button>
         </form>
       </div>
     );
