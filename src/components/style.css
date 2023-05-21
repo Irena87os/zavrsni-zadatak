@@ -2,6 +2,23 @@
 
 body{
     background: #ADFF15;
+    font-family: 'Montserrat';
+}
+
+p{
+    line-height: 1.5em;
+}
+
+hr{
+    border: 2px solid black;
+    width: 80%;
+    margin: 2em;
+}
+
+h2{
+    font-size: 3em;
+    font-weight: 600;
+    margin: 0;
 }
 h1{
     font-family: 'Montserrat', sans-serif;
@@ -66,6 +83,8 @@ input {
     align-items: center;
     justify-content: space-between;
     border-bottom: 4px solid black;
+    height: 200px!important;
+    
 }
 .left-section{
     padding: 10px 0;
@@ -112,7 +131,7 @@ display: inline;}
 .right-section{
     display: flex;
     align-items: center;
-    margin-right: 2em;
+    margin-right: 3em;
 }
 
 
@@ -163,3 +182,99 @@ form {
     align-items: center;
     
   }
+
+  .wrapper{
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    row-gap: 3em;
+  }
+
+  .text-box{
+    background-color: white;
+    border: 3px solid black;
+    padding: 1em 2em;
+    border-radius: 20px;
+    width: 50%;
+    margin: auto;
+  }
+
+ 
+  .img-box{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+  .img-box img{
+    height: 300px;
+  }
+  
+
+  .section{
+    display: flex;
+    padding: 3em 0em;
+    justify-content: center;
+    
+  }
+
+  .text-box-full{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+  }
+
+
+  .text-box-full li{
+    display: block;
+    padding-bottom: 1em;
+  }
+
+  .text-box-full li::before {
+    content: "✓";
+    font-weight: 800;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+    line-height: 1.5em;
+  
+  }
+
+
+.offer-section{
+    display: flex;
+    column-gap: 2em;
+    align-items: flex-start;
+    
+
+}
+
+.offer-section img{
+    height: 150px;
+    margin: auto;
+    align-items: center;
+}
+
+.offer-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.contact{
+    display: flex;
+    column-gap: 3em;
+    
+}
+
+.contact a{
+    text-decoration: none;
+    color: black;
+}
