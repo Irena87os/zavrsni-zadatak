@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/zavrsni-zadatak/static/css/main.91afda7a.css",
-    "main.js": "/zavrsni-zadatak/static/js/main.ceb56c2f.js",
+    "main.css": "/zavrsni-zadatak/static/css/main.65af6e70.css",
+    "main.js": "/zavrsni-zadatak/static/js/main.258764d1.js",
+    "static/media/artificial-intelligence.png": "/zavrsni-zadatak/static/media/artificial-intelligence.610e1112f72ae9b8900a.png",
+    "static/media/rating.png": "/zavrsni-zadatak/static/media/rating.64a982ff804761c7bdb9.png",
+    "static/media/implementation.png": "/zavrsni-zadatak/static/media/implementation.89f57c98efecb267eb5f.png",
+    "static/media/increase.png": "/zavrsni-zadatak/static/media/increase.e52e5e34ff121739d1d1.png",
     "static/media/box.png": "/zavrsni-zadatak/static/media/box.4235e39288b5a3117851.png",
     "index.html": "/zavrsni-zadatak/index.html",
-    "main.91afda7a.css.map": "/zavrsni-zadatak/static/css/main.91afda7a.css.map",
-    "main.ceb56c2f.js.map": "/zavrsni-zadatak/static/js/main.ceb56c2f.js.map"
+    "main.65af6e70.css.map": "/zavrsni-zadatak/static/css/main.65af6e70.css.map",
+    "main.258764d1.js.map": "/zavrsni-zadatak/static/js/main.258764d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.91afda7a.css",
-    "static/js/main.ceb56c2f.js"
+    "static/css/main.65af6e70.css",
+    "static/js/main.258764d1.js"
   ]
 }
