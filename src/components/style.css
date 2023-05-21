@@ -1,14 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;600;700;900&display=swap');
 
+body{
+    background: #ADFF15;
+}
 h1{
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
+    color: black;
 }
 
 .login-form {
     display: flex;
     flex-direction: column;
-    background: #ADFF15;
+    /*background: #ADFF15;*/
     justify-content: center;
     align-items: center;
     margin: 0px auto 0px;
@@ -28,6 +32,7 @@ input {
     margin: 0;
     height: 100%;
     display: flex;
+    background: #ADFF15;
   }
 
 .login-btn{
@@ -53,5 +58,59 @@ input {
     margin: auto;
     display: flex;
     align-items: center;
+}
 
+.App-header{
+    background-color: #ADFF15;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 4px solid black;
+}
+.left-section{
+    padding: 10px 0;
+    
+
+}
+li{list-style-type: none;
+display: inline;}
+
+.main-menu li a{
+    display: inline;
+    color: black;
+    text-transform: uppercase;
+    margin: 1em;
+    padding: 0.8em 0.5em;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: 'Montserrat';
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 1em 2em;
+    }
+
+.main-menu li a:hover{
+        color: #ADFF15;
+        text-decoration: none;
+        background-color: black;
+}
+.logout-btn{
+    color: #ADFF15!important;
+    text-decoration: none;
+    background-color: black;
+}
+.logout-btn:hover{
+    background: #ADFF15!important;
+    color: black!important;
+}
+
+.img-height-header{
+    height: 50px;
+    margin-left: 30px;
+}
+
+.right-section{
+    display: flex;
+    align-items: center;
+    margin-right: 2em;
 }
