@@ -12,8 +12,8 @@ const Header = (props) =>{
                       <div className="main-menu">
             <ul>
                <li><Link to="/zavrsni-zadatak/" className="sd-link">Chat</Link></li>
-               <li><Link to="/zavrsni-zadatak/about" className="sd-link">About</Link></li>
-               <li onClick={props.handleLogout} ><Link to="#" className="logout-btn">Logout</Link></li>
+               <li><Link to="/zavrsni-zadatak/about" className="sd-link">Informacije</Link></li>
+               <li onClick={props.handleLogout} ><Link to="#" className="logout-btn">Odjava</Link></li>
             </ul>
           </div>
           </div>

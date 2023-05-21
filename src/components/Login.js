@@ -27,7 +27,7 @@ const Login = (props) =>{
             className="input"
             id="title"
             type="text" 
-            placeholder="Unesi ime" 
+            placeholder="Unesi ime *" 
             required 
             value={usernameText} 
             onChange={(e)=> setUsernameText(e.target.value)}/>

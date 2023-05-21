@@ -29,7 +29,6 @@ h1{
 .login-form {
     display: flex;
     flex-direction: column;
-    /*background: #ADFF15;*/
     justify-content: center;
     align-items: center;
     margin: 0px auto 0px;
